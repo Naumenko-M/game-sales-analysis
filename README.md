@@ -32,9 +32,9 @@
 
 ## Структура репозитория
 
-├── data/
-│ └── games.csv # исходные данные
-├── project_games.ipynb # ноутбук с анализом
+├── data/  
+│ └── games.csv # исходные данные  
+├── project_games.ipynb # ноутбук с анализом  
 └── README.md
 
 ## Стек
